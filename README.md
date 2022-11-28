@@ -1,14 +1,13 @@
-![Alt_Text](https://github.com/KevinNourian/Podcast-Reviews/blob/main/Images/podcast-icon-g36b926a37_1280.png)
+![Alt_Text](https://github.com/KevinNourian/Podcast-Reviews/blob/main/Images/microphone-gdc11634c2_1920.png)
 
 # Introduction
 “Your most unhappy customers are your greatest source of learning.” — Bill Gates
 
-Text mining is the process of deriving insights from unstructured text.
+Text Mining: Text mining is the process of deriving insights from unstructured text.
 
-Sentiment analysis is a type of text mining that attempts to understand the emotions expressed in the text through NLP (Natural Language Processing) and ML (machine learning). Based on this information, organizations can position their products or services differently, change their target audience, allocate resources in other ways, or initiate further actions as they deem necessary.
+Sentiment Analysis: Sentiment analysis is a type of text mining that attempts to understand the emotions expressed in the text through NLP (Natural Language Processing) and ML (machine learning). Based on this information, organizations can position their products or services differently, change their target audience, allocate resources in other ways, or initiate further actions as they deem necessary.
 
-What are the qualities of a good podcast?
-Many qualities would make a good podcast. Below are 5 important ones according to some industry analysts:
+Qualities of a Good Podcast: Many qualities would make a good podcast. Below are 5 important ones according to some industry analysts:
 
 1. Focus on a central idea
 1. Authenticity
