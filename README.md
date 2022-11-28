@@ -1,4 +1,4 @@
-![Alt_Text](https://github.com/KevinNourian/Podcast-Reviews/blob/main/Images/microphone-gdc11634c2_1920.png)
+![Alt_Text](https://github.com/KevinNourian/Podcast-Reviews/blob/main/Images/podcast-icon-g36b926a37_1280_50.png)
 
 # Introduction
 “Your most unhappy customers are your greatest source of learning.” — Bill Gates
