@@ -3,16 +3,14 @@
 # Introduction
 “Your most unhappy customers are your greatest source of learning.” — Bill Gates
 
-What is text mining?
 Text mining is the process of deriving insights from unstructured text.
 
-What is sentiment analysis?
 Sentiment analysis is a type of text mining that attempts to understand the emotions expressed in the text through NLP (Natural Language Processing) and ML (machine learning). Based on this information, organizations can position their products or services differently, change their target audience, allocate resources in other ways, or initiate further actions as they deem necessary.
 
 What are the qualities of a good podcast?
 Many qualities would make a good podcast. Below are 5 important ones according to some industry analysts:
 
-Focus on a central idea
+1. Focus on a central idea
 1. Authenticity
 2. Knowledge of the subject matter
 3. High-quality production
