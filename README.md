@@ -8,21 +8,10 @@ In this report, I analyzed nearly 2 million reviews by listeners of over 100,000
 # Goal
 To provide usable information for creating good podcasts or improving the quality of existing ones.
 
-# Technical Requirements
-
-1. Download the data.
-2. Load data using SQLite and Pandas.
-3. Perform exploratory data analysis.
-4. Provide clear explanations.
-5. Provide suggestions about how the analysis can be improved.
-
 # Datasets
-
 I used 3 databases from Kaggle's Mental Health in the Tech Industry and concentrated on tech industry workers who work for tech companies:
 
-> **Categories**: Contain PodcastID and the associated category of the podcast. <BR>
-> **Podcasts**: Contains PodcastID and title of the podcast. It also includes other information that I did not use. <BR>
-> **Reviews**: Contains a column called, "Content" with the review written by the listener, ID of the reviewer and the PodcastID. It also includes other information that I did not use. <BR>
-> **Runs**: I did not use any information from this table.
-
-The total number of participants in my analysis is 1.9 million.
+# Conclusions
+**Number of Reviews in this Analysis:** I analyzed the reviews of over 1 million reviews of about 100,000 podcasts.  <br>
+**The Sentiments of Podcast Listeners:** This analysis showed that 92% of reviewers were those who rated the podcast with 4 or 5 stars. This fact, makes the results of this analysis highly suspect and I can not come to a sure conclusion about the general sentiments of the podcast listener population. What about those who did not write any reviews? Were they satisfied, or dissatisfied? <br>
+**Recommendations for Podcast Creators:** I set the ambitious goal of being able to tell the current and future podcast creators what they can do better to create more appealing podcasts. I am sorry to report that I did not achieve this goal. By this analysis, I can not form any definitive recommendations for podcast creators on how to improve their podcasts or how to create a popular one.
